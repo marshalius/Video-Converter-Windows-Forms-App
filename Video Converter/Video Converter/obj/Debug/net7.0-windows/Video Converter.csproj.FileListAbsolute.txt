@@ -1,0 +1,19 @@
+C:\Users\canda\OneDrive\Masaüstü\projects\Video Converter (Windows Forms App)\Video-Converter-Windows-Forms-App\Video Converter\Video Converter\bin\Debug\net7.0-windows\Video Converter.exe
+C:\Users\canda\OneDrive\Masaüstü\projects\Video Converter (Windows Forms App)\Video-Converter-Windows-Forms-App\Video Converter\Video Converter\bin\Debug\net7.0-windows\Video Converter.deps.json
+C:\Users\canda\OneDrive\Masaüstü\projects\Video Converter (Windows Forms App)\Video-Converter-Windows-Forms-App\Video Converter\Video Converter\bin\Debug\net7.0-windows\Video Converter.runtimeconfig.json
+C:\Users\canda\OneDrive\Masaüstü\projects\Video Converter (Windows Forms App)\Video-Converter-Windows-Forms-App\Video Converter\Video Converter\bin\Debug\net7.0-windows\Video Converter.dll
+C:\Users\canda\OneDrive\Masaüstü\projects\Video Converter (Windows Forms App)\Video-Converter-Windows-Forms-App\Video Converter\Video Converter\bin\Debug\net7.0-windows\Video Converter.pdb
+C:\Users\canda\OneDrive\Masaüstü\projects\Video Converter (Windows Forms App)\Video-Converter-Windows-Forms-App\Video Converter\Video Converter\obj\Debug\net7.0-windows\Video_Converter.Form1.resources
+C:\Users\canda\OneDrive\Masaüstü\projects\Video Converter (Windows Forms App)\Video-Converter-Windows-Forms-App\Video Converter\Video Converter\obj\Debug\net7.0-windows\Video Converter.csproj.GenerateResource.cache
+C:\Users\canda\OneDrive\Masaüstü\projects\Video Converter (Windows Forms App)\Video-Converter-Windows-Forms-App\Video Converter\Video Converter\obj\Debug\net7.0-windows\Video Converter.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\canda\OneDrive\Masaüstü\projects\Video Converter (Windows Forms App)\Video-Converter-Windows-Forms-App\Video Converter\Video Converter\obj\Debug\net7.0-windows\Video Converter.AssemblyInfoInputs.cache
+C:\Users\canda\OneDrive\Masaüstü\projects\Video Converter (Windows Forms App)\Video-Converter-Windows-Forms-App\Video Converter\Video Converter\obj\Debug\net7.0-windows\Video Converter.AssemblyInfo.cs
+C:\Users\canda\OneDrive\Masaüstü\projects\Video Converter (Windows Forms App)\Video-Converter-Windows-Forms-App\Video Converter\Video Converter\obj\Debug\net7.0-windows\Video Converter.csproj.CoreCompileInputs.cache
+C:\Users\canda\OneDrive\Masaüstü\projects\Video Converter (Windows Forms App)\Video-Converter-Windows-Forms-App\Video Converter\Video Converter\obj\Debug\net7.0-windows\Video Converter.dll
+C:\Users\canda\OneDrive\Masaüstü\projects\Video Converter (Windows Forms App)\Video-Converter-Windows-Forms-App\Video Converter\Video Converter\obj\Debug\net7.0-windows\refint\Video Converter.dll
+C:\Users\canda\OneDrive\Masaüstü\projects\Video Converter (Windows Forms App)\Video-Converter-Windows-Forms-App\Video Converter\Video Converter\obj\Debug\net7.0-windows\Video Converter.pdb
+C:\Users\canda\OneDrive\Masaüstü\projects\Video Converter (Windows Forms App)\Video-Converter-Windows-Forms-App\Video Converter\Video Converter\obj\Debug\net7.0-windows\Video Converter.genruntimeconfig.cache
+C:\Users\canda\OneDrive\Masaüstü\projects\Video Converter (Windows Forms App)\Video-Converter-Windows-Forms-App\Video Converter\Video Converter\obj\Debug\net7.0-windows\ref\Video Converter.dll
+C:\Users\canda\OneDrive\Masaüstü\projects\Video Converter (Windows Forms App)\Video-Converter-Windows-Forms-App\Video Converter\Video Converter\obj\Debug\net7.0-windows\Video_Converter.Properties.Resources.resources
+C:\Users\canda\OneDrive\Masaüstü\projects\Video Converter (Windows Forms App)\Video-Converter-Windows-Forms-App\Video Converter\Video Converter\obj\Debug\net7.0-windows\Video Converter.sourcelink.json
+C:\Users\canda\OneDrive\Masaüstü\projects\Video Converter (Windows Forms App)\Video-Converter-Windows-Forms-App\Video Converter\Video Converter\obj\Debug\net7.0-windows\Video_Converter.FileControl.resources
